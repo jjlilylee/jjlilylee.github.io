@@ -4,4 +4,4 @@ Hi! I’m Lily. I love combining data, design, and technology to solve meaningfu
 
 This page shares a bit about my journey, projects, and interests.
 
-[Airchestra Project](airchestra)
+[Airchestra Project](airchestra.md)
