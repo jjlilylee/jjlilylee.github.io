@@ -21,5 +21,11 @@ By using one hand to control pitch and the other hand to control volume, student
 | **Programming Language** | CircuitPython |
 | **Educational Impact** | - Encourages inclusive participation in music education<br>- Reinforces pitch and rhythm learning through multisensory feedback<br>- Enables gesture-based musical interaction |
 
-## 👩‍💻 Code
+## 👷‍♀️ System Architecture
 
+![Airchestra Block Diagram](images/SystemArchitecture.png)
+<br><br>
+
+## 💡 Circuit Diagram
+
+## 👩‍💻 Code
