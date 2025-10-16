@@ -69,7 +69,7 @@ By using one hand to control pitch and the other hand to control volume, student
       </td>
     </tr>
   </table>
-</div>
+
 
 
 ## 👷‍♀️ System Architecture
