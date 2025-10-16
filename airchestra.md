@@ -19,7 +19,6 @@ By using one hand to control pitch and the other hand to control volume, student
   <img src="images/plugwires.jpg" alt="Step 3" width="30%">
 </p>
 
-
 ## ⚙️ Technical Overview
   <table>
     <tr>
@@ -60,23 +59,14 @@ By using one hand to control pitch and the other hand to control volume, student
       <td><strong>Programming Language</strong></td>
       <td>CircuitPython</td>
     </tr>
-    <tr>
-      <td><strong>Educational Impact</strong></td>
-      <td>
-        - Encourages inclusive participation in music education<br>
-        - Reinforces pitch and rhythm learning through multisensory feedback<br>
-        - Enables gesture-based musical interaction
-      </td>
-    </tr>
   </table>
-
-
 
 ## 👷‍♀️ System Architecture
 
 ![Airchestra Block Diagram](images/SystemArchitecture.png)
 <br><br>
 
+  
 ## 💡 Circuit Diagram
 <p align="center">
   <img src="images/cdiagram.jpg" alt="Airchestra Circuit Diagram" width="70%">
