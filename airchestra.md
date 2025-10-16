@@ -11,12 +11,11 @@ By using one hand to control pitch and the other hand to control volume, student
 
 ## 🎵 Airchestra in Action
 
-<br><br>
 ![Airchestra Notes Color](images/oriented_airchestra_notes.png)
 ![Airchestra Dynamics](images/airchestra_dynamics.png)
 <br><br>
 
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
