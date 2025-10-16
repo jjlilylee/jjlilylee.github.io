@@ -10,7 +10,7 @@ Using two ultrasonic rangefinders, students can play and shape sound directly in
 <br><br>
 By using one hand to control pitch and the other hand to control volume, students can develop skills fundamental to orchestral conducting, such as independent hand coordination, expressive dynamics, and precise control of musical phrasing. This multisensory design not only enhances accessibility in music classrooms but also provides a creative, engaging way for choir students to connect solfege hand motions with sound and color, bridging motion, music, and inclusivity.
 
-<video controls width="640">
+<video controls width="320">
   <source src="images/combined.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
