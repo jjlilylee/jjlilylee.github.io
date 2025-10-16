@@ -78,6 +78,9 @@ By using one hand to control pitch and the other hand to control volume, student
 <br><br>
 
 ## 💡 Circuit Diagram
+<p align="center">
+  <img src="images/circuitdiagram.jpg" alt="Airchestra Circuit Diagram" width="70%">
+</p>
 
 ## 👩‍💻 Code
 
