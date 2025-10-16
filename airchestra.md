@@ -10,10 +10,50 @@ Using two ultrasonic rangefinders, students can play and shape sound directly in
 <br><br>
 By using one hand to control pitch and the other hand to control volume, students can develop skills fundamental to orchestral conducting, such as independent hand coordination, expressive dynamics, and precise control of musical phrasing. This multisensory design not only enhances accessibility in music classrooms but also provides a creative, engaging way for choir students to connect solfege hand motions with sound and color, bridging motion, music, and inclusivity.
 
-<video controls width="320">
-  <source src="images/combined.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Three Videos</title>
+  <style>
+    /* Container to hold the videos in a row */
+    .video-row {
+      display: flex;
+      justify-content: space-around; /* space between videos */
+      align-items: flex-start;       /* align at the top */
+      gap: 10px;                     /* optional gap between videos */
+      flex-wrap: wrap;               /* wrap on smaller screens */
+    }
+
+    .video-row video {
+      width: 320px; /* width of each video */
+      height: auto; /* keep aspect ratio */
+      display: block;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="video-row">
+    <video controls>
+      <source src="images/combined.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+
+    <video controls>
+      <source src="images/notes.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+
+    <video controls>
+      <source src="images/metupdated.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+
+</body>
+</html>
+
 
 ## 🛠️ Technical Overview
 
