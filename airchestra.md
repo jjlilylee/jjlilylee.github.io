@@ -64,17 +64,6 @@ By using one hand to control pitch and the other hand to control volume, student
 
 ## 🛠️ Technical Overview
 
-<style>
-  table {
-    margin-left: auto;
-    margin-right: auto;
-    border-collapse: collapse;
-  }
-  th, td {
-    padding: 8px;
-    border: 1px solid #ccc;
-  }
-</style>
 
 | **Category** | **Details** | |---------------|-------------| | **Microcontroller** | Raspberry Pi Pico | | **Input Components** | - Ultrasonic Rangefinder (Pitch Control)<br>- Ultrasonic Rangefinder (Volume Control)<br>- Potentiometer (Tempo Adjustment)<br>- Push Button (Metronome Activation) | | **Output Components** | - Speaker, Amplifier (Audio Output)<br>- NeoPixel RGB LED (Visual Feedback)<br>- RC Servo Motor (Metronome Arm) | | **Core Functions** | - Maps hand distance (ultrasonic input) to pitch and volume<br>- Synchronizes LED color transitions with pitch frequency<br>- Uses potentiometer to adjust metronome tempo<br>- Activates/deactivates metronome via button press | | **Programming Language** | CircuitPython | | **Educational Impact** | - Encourages inclusive participation in music education<br>- Reinforces pitch and rhythm learning through multisensory feedback<br>- Enables gesture-based musical interaction |
 
