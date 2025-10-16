@@ -64,14 +64,57 @@ By using one hand to control pitch and the other hand to control volume, student
 
 ## 🛠️ Technical Overview
 
-| **Category** | **Details** |
-|---------------|-------------|
-| **Microcontroller** | Raspberry Pi Pico |
-| **Input Components** | - Ultrasonic Rangefinder (Pitch Control)<br>- Ultrasonic Rangefinder (Volume Control)<br>- Potentiometer (Tempo Adjustment)<br>- Push Button (Metronome Activation) |
-| **Output Components** | - Speaker, Amplifier (Audio Output)<br>- NeoPixel RGB LED (Visual Feedback)<br>- RC Servo Motor (Metronome Arm) |
-| **Core Functions** | - Maps hand distance (ultrasonic input) to pitch and volume<br>- Synchronizes LED color transitions with pitch frequency<br>- Uses potentiometer to adjust metronome tempo<br>- Activates/deactivates metronome via button press |
-| **Programming Language** | CircuitPython |
-| **Educational Impact** | - Encourages inclusive participation in music education<br>- Reinforces pitch and rhythm learning through multisensory feedback<br>- Enables gesture-based musical interaction |
+<div style="text-align: center;">
+  <table>
+    <tr>
+      <th>Category</th>
+      <th>Details</th>
+    </tr>
+    <tr>
+      <td><strong>Microcontroller</strong></td>
+      <td>Raspberry Pi Pico</td>
+    </tr>
+    <tr>
+      <td><strong>Input Components</strong></td>
+      <td>
+        - Ultrasonic Rangefinder (Pitch Control)<br>
+        - Ultrasonic Rangefinder (Volume Control)<br>
+        - Potentiometer (Tempo Adjustment)<br>
+        - Push Button (Metronome Activation)
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Output Components</strong></td>
+      <td>
+        - Speaker, Amplifier (Audio Output)<br>
+        - NeoPixel RGB LED (Visual Feedback)<br>
+        - RC Servo Motor (Metronome Arm)
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Core Functions</strong></td>
+      <td>
+        - Maps hand distance (ultrasonic input) to pitch and volume<br>
+        - Synchronizes LED color transitions with pitch frequency<br>
+        - Uses potentiometer to adjust metronome tempo<br>
+        - Activates/deactivates metronome via button press
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Programming Language</strong></td>
+      <td>CircuitPython</td>
+    </tr>
+    <tr>
+      <td><strong>Educational Impact</strong></td>
+      <td>
+        - Encourages inclusive participation in music education<br>
+        - Reinforces pitch and rhythm learning through multisensory feedback<br>
+        - Enables gesture-based musical interaction
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 ## 👷‍♀️ System Architecture
 
