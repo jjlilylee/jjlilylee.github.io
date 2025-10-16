@@ -20,59 +20,7 @@ By using one hand to control pitch and the other hand to control volume, student
 </p>
 
 
-## 🎵 Airchestra in Action
-
-![Airchestra Notes Color](images/oriented_airchestra_notes.png)
-![Airchestra Dynamics](images/airchestra_dynamics.png)
-<br><br>
-
-
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Three Videos</title>
-  <style>
-    /* Container to hold the videos in a row */
-    .video-row {
-      display: flex;
-      justify-content: space-around; /* space between videos */
-      align-items: flex-start;       /* align at the top */
-      gap: 10px;                     /* optional gap between videos */
-      flex-wrap: wrap;               /* wrap on smaller screens */
-    }
-
-    .video-row video {
-      width: 320px; /* width of each video */
-      height: auto; /* keep aspect ratio */
-      display: block;
-    }
-  </style>
-</head>
-<body>
-
-  <div class="video-row">
-    <video controls>
-      <source src="images/notes.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-
-    <video controls>
-      <source src="images/metupdated.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-
-    <video controls>
-      <source src="images/combined.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-  </div>
-
-</body>
-</html>
-
-
 ## ⚙️ Technical Overview
-<div style="text-align: center;">
   <table>
     <tr>
       <th>Category</th>
@@ -336,6 +284,56 @@ while True:
 
   </code></pre>
 </section>
+
+## 🎵 Airchestra in Action
+
+![Airchestra Notes Color](images/oriented_airchestra_notes.png)
+![Airchestra Dynamics](images/airchestra_dynamics.png)
+<br><br>
+
+
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Three Videos</title>
+  <style>
+    /* Container to hold the videos in a row */
+    .video-row {
+      display: flex;
+      justify-content: space-around; /* space between videos */
+      align-items: flex-start;       /* align at the top */
+      gap: 10px;                     /* optional gap between videos */
+      flex-wrap: wrap;               /* wrap on smaller screens */
+    }
+
+    .video-row video {
+      width: 320px; /* width of each video */
+      height: auto; /* keep aspect ratio */
+      display: block;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="video-row">
+    <video controls>
+      <source src="images/notes.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+
+    <video controls>
+      <source src="images/metupdated.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+
+    <video controls>
+      <source src="images/combined.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+
+</body>
+</html>
 
 
 
