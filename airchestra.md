@@ -11,6 +11,15 @@ By using one hand to control pitch and the other hand to control volume, student
   <img src="images/breadboard.JPG" alt="Airchestra Breadboard" width="70%">
 </p>
 
+## 🛠️ From Prototype to Product
+![Airchestra Sketches](images/sketchjourney.jpg)
+<p align="center">
+  <img src="images/cutwires.jpg" alt="Step 1" width="30%">
+  <img src="images/solder.JPG" alt="Step 2" width="35%">
+  <img src="images/plugwires.jpg" alt="Step 3" width="30%">
+</p>
+
+
 ## 🎵 Airchestra in Action
 
 ![Airchestra Notes Color](images/oriented_airchestra_notes.png)
@@ -62,7 +71,7 @@ By using one hand to control pitch and the other hand to control volume, student
 </html>
 
 
-## 🛠️ Technical Overview
+## ⚙️ Technical Overview
 <div style="text-align: center;">
   <table>
     <tr>
